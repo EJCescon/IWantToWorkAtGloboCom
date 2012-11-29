@@ -1,19 +1,40 @@
 Vaga
 ====
+Tenho interesse em uma das vagas de:
+Área de Webmedia ou Plataforma de Cadastro ou Plataforma de Personalização ou Plataforma de Comentários.
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Dados pessoais
+	Nome: Elias Junior Cescon
+	Filiação: Elias dos Santos Cescon e Tânia Maria Luiza Cescon
+	Nascimento: 14/11/1988
+	Carteira de Identidade: 207262957 DETRAN - RJ - 11/04/2007
+	CPF: 129.713.357-98
+	Endereço residencial: Estrada do Independencia, 1573 Independencia - Petrópolis 25645343, RJ - Brasil
+	Telefone: 024 22482327
+	Celular: 024 92548807
+	E-mail: elias.jr.cescon@gmail.com
+	
+Formação acadêmica/titulação
+	2008 Graduação em Ciência da Computação. Faculdade de Educação Tecnológica do Estado do Rio de Janeiro,FAETERJ (IST-Petrópolis), Brasil
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+Idiomas
+	Inglês Compreende Pouco , Fala Pouco , Escreve Pouco , Lê Pouco
+	Espanhol Compreende Razoavelmente , Fala Razoavelmente , Escreve Razoavelmente , Lê Razoavelmente
+	Português Compreende Bem , Fala Bem , Escreve Razoavelmente , Lê Bem
+	
+Conhecimentos
+	Lógica de Programação;
+	C, C++, Java;
+	PHP;
+	HTML;
+	MySQL;
+	PostgreSQL;
+	MatLab;
+	Redes de Computadores;
+	Conhecimento acerca de Hardware (montagem e manutenção).
+	
+Gostaria da oportunidade de ingressar no mercado de trabalho em uma organização de respeito e grande importância no mercado.
